@@ -122,8 +122,7 @@ Two pieces (see `provenance-panel.html` for the drop-in template):
 
 ## What this directory is NOT
 
-- Not an npm package. Not a component library. Overkill for static HTML
-  sites (Round 1 Section 3, "What I am explicitly not recommending").
+- Not a component library or framework — just raw CSS files.
 - Not fetched at runtime. There is no runtime fetch path; the shared
   CSS exists only as build-time input.
 - Not a monorepo config. Each site is its own Worker, its own
@@ -141,3 +140,7 @@ open brand-posture question (`ROUND_1_glm.md` §5.8). The org publishes
 everything checkable; making the design system public is consistent
 with that and is itself a checkable claim ("this is the actual CSS the
 family uses"). Lean public, but it's an org-owner call.
+
+## License
+
+MIT — see [LICENSE](./LICENSE).

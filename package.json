@@ -1,0 +1,16 @@
+{
+  "name": "@purplepincher/family-styles",
+  "version": "0.1.0",
+  "description": "Shared CSS design system for the PurplePincher domain family.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purplepincher/family-styles"
+  },
+  "files": [
+    "tokens.css",
+    "base.css",
+    "provenance-panel.css",
+    "provenance-panel.html"
+  ]
+}
